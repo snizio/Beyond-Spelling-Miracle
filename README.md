@@ -11,22 +11,5 @@ If you use any of the following contents for your work, we kindly ask you to cit
 }
 ```
 
-> **Abstract:** Correctly identifying characters and substrings
-of words should be a basic but essential abil-
-ity of any Language Model that aims to profi-
-ciently understand and produce language. De-
-spite so, the majority of Pre-trained Language
-Models (PLMs) are "character-blind" and strug-
-gle in spelling tasks, although they still seem
-to acquire some character knowledge during
-pre-training, a phenomenon dubbed Spelling
-Miracle. To shed light on this phenomenon, we
-systematically evaluate a range of PLMs with
-different parameter sizes using a controlled bi-
-nary substring identification task. Through a
-series of experiments, we propose the first com-
-prehensive investigation on where, when, and
-how PLMs develop awareness of characters and
-substrings, with a particular linguistic focus on
-morphemic units such as prefixes, suffixes, and
-roots.
+> **Abstract:** Correctly identifying characters and substrings of words should be a basic but essential ability of any Language Model that aims to proficiently understand and produce language. Despite so, the majority of Pre-trained Language Models (PLMs) are "character-blind" and struggle in spelling tasks, although they still seem to acquire some character knowledge during pre-training, a phenomenon dubbed \textit{Spelling Miracle}. 
+To shed light on this phenomenon, we systematically evaluate a range of PLMs with different parameter sizes using a controlled binary substring identification task. Through a series of experiments, we propose the first comprehensive investigation on where, when, and how PLMs develop awareness of characters and substrings, with a particular linguistic focus on morphemic units such as prefixes, suffixes, and roots.
